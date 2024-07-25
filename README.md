@@ -1,6 +1,4 @@
-# Step 1
-
-## Packeges Installing
+# Step 1 - Packeges Installing
 
 [Link](https://github.com/gdsfactory/gdsfactory-photonics-training)
 
