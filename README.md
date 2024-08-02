@@ -2,7 +2,7 @@
 
 To install the software, we need to install 3 programs, the installation process of which is given in the following links:
 
-* [Anaconda](https://github.com/SMSajadi99/gdsfactory-tutorial/blob/main/install/Anaconda/Anaconda.md)
+* [Anaconda - 2023.03](https://github.com/SMSajadi99/gdsfactory-tutorial/blob/main/install/Anaconda/Anaconda.md)
 * [KLayout](https://github.com/SMSajadi99/gdsfactory-tutorial/blob/main/install/Klayout/Klayout.md)
 * [Git](https://github.com/SMSajadi99/gdsfactory-tutorial/blob/main/install/git/git.md)
 
