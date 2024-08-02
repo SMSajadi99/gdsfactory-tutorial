@@ -1,10 +1,8 @@
-# Step 1 - Packeges Installing
+# Git Installation
 
-[Link](https://github.com/gdsfactory/gdsfactory-photonics-training)
+The Git installation process will be as follows:
 
 
-QA:
+done :)
 
-[Question - 1](https://github.com/gdsfactory/gdsfactory-photonics-training/issues/32)
-
-[Question - 2](https://github.com/gdsfactory/gdsfactory/issues/3035)
+be happy ...
