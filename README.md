@@ -28,6 +28,8 @@ I will try to familiarize you with its working by placing some photos of the beg
 
 ![9](https://github.com/user-attachments/assets/57a619d1-06e6-4d34-a3c2-6105a914538e)
 
+Well, here it is better to have the KLayout program open to see its results there:
+
 ![10](https://github.com/user-attachments/assets/38ef5176-29ac-4631-bf3f-fe1b2c112d1c)
 
 ![11](https://github.com/user-attachments/assets/fd3192fc-0b48-48ab-ae54-fd90913327b2)
