@@ -1,9 +1,11 @@
 # Step 1 - Packages Installation
 
-[Link](https://github.com/gdsfactory/gdsfactory-photonics-training)
+To install the software, we need to install 3 programs, the installation process of which is given in the following links:
 
 
-QA:
+
+
+# QA:
 
 [Question - 1](https://github.com/gdsfactory/gdsfactory-photonics-training/issues/32)
 
