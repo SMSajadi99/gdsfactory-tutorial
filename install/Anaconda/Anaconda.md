@@ -37,4 +37,5 @@ The Anaconda installation process will be as follows:
 ![17](https://github.com/user-attachments/assets/b4b01981-a3a9-41cc-b738-e65593a416ed)
 
 done :)
+
 be happy ...
